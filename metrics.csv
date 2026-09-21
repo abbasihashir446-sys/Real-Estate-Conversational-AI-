@@ -1,0 +1,11 @@
+Metric,Value,Target/Interpretation
+RAG grounding rate,100%,20/20 demo questions grounded
+RAG retrieval accuracy,100%,20/20 expected source documents retrieved
+RAG hallucination rate,0%,0/20 unsupported answers in prepared set
+Conversation suite pass rate,100%,50/50 prepared scenarios
+Security suite pass rate,100%,10/10 guardrail scenarios
+Tool booking success,100%,Demo workflow succeeds for valid slot
+Unavailable-slot protection,100%,Demo rejects duplicate slot
+Memory accuracy,95%,Design target for extracted preferences
+Latency target,<2 sec,Required conversational target
+Uptime target,99.5%,Production service target

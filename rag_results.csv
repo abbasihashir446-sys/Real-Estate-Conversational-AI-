@@ -1,0 +1,21 @@
+id,question,grounded,retrieval_correct,hallucinated,evidence
+R01,Can the agent quote property availability from company records?,1,1,0,D001
+R02,Should the agent invent a price when it is missing?,1,1,0,D001
+R03,What should be considered for recommendations?,1,1,0,D002
+R04,What must happen before booking?,1,1,0,D003
+R05,Can an unavailable appointment be booked?,1,1,0,D003
+R06,When should the agent escalate?,1,1,0,D004
+R07,Should the agent use natural UrduLish?,1,1,0,D005
+R08,Can the agent promise a discount without evidence?,1,1,0,D001
+R09,Can the agent guarantee investment returns?,1,1,0,D004
+R10,What is the appointment notification flow?,1,1,0,D003
+R11,Should exact prices use structured retrieval?,1,1,0,D001
+R12,Should brochures use semantic retrieval?,1,1,0,D001
+R13,Can the agent disclose API keys?,1,1,0,D004
+R14,Should a missing fact be guessed?,1,1,0,D001
+R15,What is the target voice style?,1,1,0,D005
+R16,Should the agent pressure a customer?,1,1,0,D005
+R17,What are key recommendation inputs?,1,1,0,D002
+R18,What happens when a tool fails?,1,1,0,D003
+R19,Can availability be bypassed?,1,1,0,D003
+R20,What content belongs in the knowledge base?,1,1,0,D001
