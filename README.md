@@ -18,28 +18,6 @@ This repository is designed to be runnable without paid external APIs. External 
 Gmail, PostgreSQL and vector-database integrations are represented by adapters with deterministic demo/mock
 implementations. Replace adapter internals and environment variables for a live client deployment.
 
-## Architecture
-
-```mermaid
-flowchart LR
-    Phone[Telephony] --> STT[Deepgram / Whisper]
-    STT --> API[FastAPI]
-    API --> LG[LangGraph Orchestrator]
-    LG --> INTENT[Intent Detection]
-    INTENT --> SQL[Structured Property Search]
-    INTENT --> RAG[RAG / Vector Search]
-    INTENT --> REC[Recommendation Engine]
-    INTENT --> CAL[Calendar]
-    INTENT --> EMAIL[Email]
-    INTENT --> CRM[CRM Logging]
-    SQL --> LG
-    RAG --> LG
-    REC --> LG
-    CAL --> LG
-    EMAIL --> LG
-    CRM --> LG
-    LG --> TTS[Fish Audio / ElevenLabs]
-    TTS --> Phone
 ```
 
 ## Run locally
@@ -80,6 +58,4 @@ Open:
 }
 ```
 
-The demo engine uses the CSV data in `data/properties.csv`, so the result is grounded in the provided
-property catalog rather than invented live listings.
 
