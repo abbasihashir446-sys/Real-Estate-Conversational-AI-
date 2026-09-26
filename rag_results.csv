@@ -1,4 +1,4 @@
-id,question,grounded,retrieval_correct,hallucinated,evidence
+ids,question,grounded,retrieval_correct,hallucinated,evidence
 R01,Can the agent quote property availability from company records?,1,1,0,D001
 R02,Should the agent invent a price when it is missing?,1,1,0,D001
 R03,What should be considered for recommendations?,1,1,0,D002
