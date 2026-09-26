@@ -1,0 +1,11 @@
+property_id,name,city,area,bedrooms,bathrooms,price,purpose,amenities,availability
+1,Green Valley Residency,Islamabad,DHA Phase 2,3,2,30000000,sale,"parking,gym,security",available
+2,Lake View Apartments,Islamabad,Bahria Town,2,2,18500000,sale,"parking,security,park",available
+3,City Heights,Lahore,DHA Phase 6,3,3,28000000,sale,"parking,gym,security",available
+4,Gulberg Executive Flat,Lahore,Gulberg III,2,2,120000,rent,"parking,security",available
+5,Clifton Business Tower,Karachi,Clifton,0,2,65000000,sale,"parking,security,conference_room",available
+6,Bahria Commercial Plaza,Islamabad,Bahria Town,0,3,45000000,sale,"parking,security,main_road",available
+7,DHA Family Home,Lahore,DHA Phase 5,4,4,52000000,sale,"parking,garden,security",available
+8,Capital View Rental,Islamabad,G-11,2,2,85000,rent,"parking,security,near_market",available
+9,Sea View Apartment,Karachi,DHA Phase 8,3,3,36000000,sale,"parking,gym,sea_view,security",available
+10,University Road Flat,Peshawar,University Town,2,2,65000,rent,"parking,security,near_schools",available

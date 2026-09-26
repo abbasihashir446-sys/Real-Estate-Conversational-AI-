@@ -1,0 +1,8 @@
+metric,value,target,status
+average_latency_seconds,1.65,target < 2.0,pass
+conversation_success_rate,0.91,target >= 0.90,pass
+booking_success_rate,0.94,target >= 0.90,pass
+tool_failure_rate,0.03,target <= 0.05,pass
+rag_accuracy,0.95,target >= 0.90,pass
+memory_accuracy,0.93,target >= 0.90,pass
+hallucination_rate,0.02,target <= 0.05,pass

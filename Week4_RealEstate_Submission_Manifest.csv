@@ -1,0 +1,12 @@
+artifact,type,description
+Week4_RealEstate_Voice_Agent_Complete_Capstone_CLEAN.ipynb,notebook,"Clean Week 4 capstone notebook; code/markdown retained, execution outputs removed"
+properties.csv,csv,Real-estate capstone supporting dataset/evaluation artifact
+developers.csv,csv,Real-estate capstone supporting dataset/evaluation artifact
+payment_plans.csv,csv,Real-estate capstone supporting dataset/evaluation artifact
+nearby_facilities.csv,csv,Real-estate capstone supporting dataset/evaluation artifact
+rag_evaluation.csv,csv,Real-estate capstone supporting dataset/evaluation artifact
+conversation_tests.csv,csv,Real-estate capstone supporting dataset/evaluation artifact
+workflow_logs.csv,csv,Real-estate capstone supporting dataset/evaluation artifact
+annotated_execution_traces.csv,csv,Real-estate capstone supporting dataset/evaluation artifact
+performance_metrics.csv,csv,Real-estate capstone supporting dataset/evaluation artifact
+monitoring_plan.csv,csv,Real-estate capstone supporting dataset/evaluation artifact

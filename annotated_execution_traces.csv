@@ -1,0 +1,9 @@
+trace_id,from_node,to_node,state,status
+1,greeting,intent_detection,buyer,success
+2,intent_detection,property_search,buyer,success
+3,property_search,recommendation,Green Valley Residency,success
+4,recommendation,booking,selected_property,success
+5,booking,calendar,validated_slot,success
+6,calendar,email,event_created,success
+7,email,crm,notification_sent,success
+8,crm,goodbye,lead_logged,success

@@ -1,0 +1,8 @@
+step_id,node,action,status
+1,CALL,received,success
+2,INTENT,buyer,success
+3,PROPERTY_MATCH,Green Valley Residency,success
+4,APPOINTMENT,requested,success
+5,CALENDAR,event_created,success
+6,EMAIL,employee_notified,success
+7,CRM,lead_logged,success

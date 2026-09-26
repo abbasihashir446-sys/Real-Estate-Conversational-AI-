@@ -1,0 +1,21 @@
+test_id,question,expected_source,expected_behavior,grounded,retrieval_correct,hallucinated
+1,What is the price of Green Valley Residency?,Green Valley Residency,grounded,1,1,0
+2,Which properties are in Islamabad?,Islamabad properties,grounded,1,1,0
+3,Does Lake View Apartments have parking?,Lake View Apartments,grounded,1,1,0
+4,What payment plan is available for City Heights?,City Heights payment plan,grounded,1,1,0
+5,Which hospital is near City Heights?,City Heights facilities,grounded,1,1,0
+6,Is DHA Family Home available?,DHA Family Home,grounded,1,1,0
+7,Tell me the exact price of an unlisted property.,No verified source,refuse_or_clarify,1,0,0
+8,What is the price of Green Valley Residency?,Green Valley Residency,grounded,1,1,0
+9,Which area is City Heights in?,City Heights,grounded,1,1,0
+10,Does Sea View Apartment have sea view?,Sea View Apartment,grounded,1,1,0
+11,Who developed Green Valley Residency?,Green Valley Residency developer,grounded,1,1,0
+12,How many bedrooms does DHA Family Home have?,DHA Family Home,grounded,1,1,0
+13,What is the price of a property not in the database?,No verified source,refuse_or_clarify,1,0,0
+14,Is Capital View Rental available?,Capital View Rental,grounded,1,1,0
+15,Which properties have three bedrooms?,3-bedroom properties,grounded,1,1,0
+16,What amenities does Clifton Business Tower have?,Clifton Business Tower,grounded,1,1,0
+17,What is the installment plan for Lake View Apartments?,Lake View Apartments payment plan,grounded,1,1,0
+18,Which hospital is near Lake View Apartments?,Lake View facilities,grounded,1,1,0
+19,Give me a property that does not exist.,No verified source,refuse_or_clarify,1,0,0
+20,What city is University Road Flat in?,University Road Flat,grounded,1,1,0
