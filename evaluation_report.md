@@ -1,6 +1,6 @@
 # Evaluation Report
 
-## Prepared evaluation results
+## Prepared evaluation result
 
 | Category | Result |
 |---|---:|
